@@ -1,0 +1,1 @@
+This project is mainly aimed at analyzing the sentiments of the people about any trending issue on the basis on the twitter data. It involves web scrapping with Tweepy API, Data Pre-processing and various machine learning techniques for classification of emotions.    
